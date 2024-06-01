@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://res.cloudinary.com/dnhz5reqf/image/upload/v1717265398/ProjectReadmeThumb_wvvjf8.png" alt="Project Zoo" width="800"></a>
+  <a href=""><img src="https://res.cloudinary.com/dnhz5reqf/image/upload/v1717266868/MAPthumb_r7p6uk.png" alt="Project Zoo" width="800"></a>
   <br>
   MAP_Frontend_Project_01
   <br>

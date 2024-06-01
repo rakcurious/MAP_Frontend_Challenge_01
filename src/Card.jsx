@@ -60,7 +60,7 @@ const Card = ({ title, description, imageUrl, tag }) => {
                   {description}
                 </p>
                 {tag.length > 0 && (
-                  <div className="bg-blue-100 text-blue-800 text-lg font-semibold px-4 py-1 rounded-xl text-center">
+                  <div className="bg-blue-100 text-blue-800 text-sm font-semibold px-4 py-1 rounded-xl text-center">
                     {tag}
                   </div>
                 )}
