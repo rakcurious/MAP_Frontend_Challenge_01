@@ -7,7 +7,7 @@ const Home = () => {
     //snap styles for perfectly fitting the cards in the viewport. now every scroll will stop at the end of some card and won't cut any card
     <div className="h-screen bg-violet-100 overflow-x-auto snap-x snap-mandatory scroll-smooth">
       <h1 className="text-3xl m-6 text-center font-semibold font-mono absolute w-screen">
-        Project Zoo
+        MAP Frontend
       </h1>
       <div className="flex pt-20">
         {data.map((card, index) => (
