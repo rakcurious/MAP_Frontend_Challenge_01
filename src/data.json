@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Woodland Wonder",
+    "description": "Magical forest creature",
+    "imageUrl": "SamplePic01",
+    "tag": "magical"
+  },
+  {
+    "title": "Jaadui Girgit",
+    "description": "Potential Politician",
+    "imageUrl": "SamplePic02",
+    "tag": "playful"
+  },
+  {
+    "title": "Billie Cutie",
+    "description": "Look at me",
+    "imageUrl": "SamplePic03",
+    "tag": ""
+  },
+  {
+    "title": "Winter Wonderland",
+    "description": "Snowy winter scene",
+    "imageUrl": "SamplePic04",
+    "tag": "wonderland"
+  },
+  {
+    "title": "Canine Companion",
+    "description": "Loyal and friendly dog",
+    "imageUrl": "SamplePic05",
+    "tag": ""
+  },
+  {
+    "title": "Festive Feast",
+    "description": "joyful holiday gathering",
+    "imageUrl": "SamplePic06",
+    "tag": "junglee"
+  },
+  {
+    "title": "Chef Cat",
+    "description": "Culinary maestro",
+    "imageUrl": "SamplePic07",
+    "tag": "culinary"
+  },
+  {
+    "title": "Colorful Birdie",
+    "description": "Vibrant and playful bird",
+    "imageUrl": "SamplePic08",
+    "tag": ""
+  },
+  {
+    "title": "Mythical Creature",
+    "description": "Majestic dragon creature",
+    "imageUrl": "SamplePic09",
+    "tag": "mythical"
+  },
+  {
+    "title": "Cute Raccoons",
+    "description": "Adorable raccoon family",
+    "imageUrl": "SamplePic10",
+    "tag": "cute"
+  },
+  {
+    "title": "Feline Fashionista",
+    "description": "Stylish and trendy cat",
+    "imageUrl": "SamplePic11",
+    "tag": "stylish"
+  },
+  {
+    "title": "Forest Spirits",
+    "description": "Enchanting forest creatures",
+    "imageUrl": "SamplePic12",
+    "tag": ""
+  },
+  {
+    "title": "Wise Owl",
+    "description": "Intelligent owl",
+    "imageUrl": "SamplePic13",
+    "tag": "wise"
+  },
+  {
+    "title": "Funky Monkey",
+    "description": "Cool and stylish monkey",
+    "imageUrl": "SamplePic14",
+    "tag": "stylish"
+  },
+  {
+    "title": "Quirky Creature",
+    "description": "Insano ke dadaji",
+    "imageUrl": "SamplePic15",
+    "tag": ""
+  },
+  {
+    "title": "Billi Mausi",
+    "description": "Intrigued jeev",
+    "imageUrl": "SamplePic16",
+    "tag": "curious"
+  },
+  {
+    "title": "Forest Guardian",
+    "description": "Wise forest spirit",
+    "imageUrl": "SamplePic17",
+    "tag": "forest"
+  },
+  {
+    "title": "Enchanted Forest",
+    "description": "Mystical forest scene",
+    "imageUrl": "SamplePic18",
+    "tag": ""
+  },
+  {
+    "title": "Cute Critters",
+    "description": "Adorable animals",
+    "imageUrl": "SamplePic19",
+    "tag": "cute"
+  },
+  {
+    "title": "Monkey Man",
+    "description": "Dev Patel Zindabaad",
+    "imageUrl": "SamplePic20",
+    "tag": "explorer"
+  }
+]
