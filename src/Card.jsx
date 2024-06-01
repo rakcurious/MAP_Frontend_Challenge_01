@@ -45,7 +45,7 @@ const Card = ({ title, description, imageUrl, tag }) => {
               src={imageUrl.default}
               alt={title}
               className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-110 rounded-xl p-2"
-              loading="lazy"
+             
             />
           </div>
 
