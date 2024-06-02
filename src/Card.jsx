@@ -45,7 +45,7 @@ const Card = ({ title, description, imageUrl, tag }) => {
               src={imageUrl.default}
               alt={title}
               className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-110 rounded-xl p-2"
-              loading="lazy"
+        
             />
           </div>
 
@@ -53,10 +53,10 @@ const Card = ({ title, description, imageUrl, tag }) => {
             //the card info which will be hidden when the user clicks and we have to transition the image into full card
             !clicked && (
               <div className="p-2 rounded-lg flex flex-col justify-start items-center bg-indigo-200 w-full h-auto aspect-[3/1] ">
-                <h2 className="text-2xl text-center sm:text-xl font-semibold mb-1 w-full">
+                <h2 className="text-center text-xl font-semibold mb-1 w-full">
                   {title}
                 </h2>
-                <p className="mb-2 text-xl text-black/80 sm:text-lg font-serif text-center">
+                <p className="mb-2 text-black/80 text-lg font-serif text-center">
                   {description}
                 </p>
                 {tag.length > 0 && (

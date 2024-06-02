@@ -5,7 +5,7 @@ const images = import.meta.glob( "./assets/*.webp", { eager: true } );
 const Home = () => {
   return (
     //snap styles for perfectly fitting the cards in the viewport. now every scroll will stop at the end of some card and won't cut any card
-    <div className="h-screen bg-violet-100 overflow-x-auto snap-x snap-mandatory scroll-smooth">
+    <div className="h-screen bg-violet-100 overflow-x-auto scroll-smooth snap-mandatory snap-x">
       <h1 className="text-3xl m-6 text-center font-semibold font-mono absolute w-screen">
         MAP Frontend
       </h1>
@@ -14,7 +14,7 @@ const Home = () => {
           <div
             key={index}
             //responsive layouts for all screen sizes
-            className="w-full sm:w-1/2 lg:w-1/3 xl:w-1/4 aspect-[5/8] h-auto snap-start shrink-0 p-4 flex items-center justify-center  transition duration-500"
+            className="h-[36rem] aspect-[5/8] w-auto shrink-0 p-4 flex snap-start items-center justify-center  transition duration-500"
           >
             <Card
               title={card.title}
